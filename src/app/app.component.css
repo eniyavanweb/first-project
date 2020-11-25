@@ -1,0 +1,746 @@
+.backgroung-img .im {
+    position: absolute;
+    width: 84.3rem;
+    height: 42rem;
+    z-index: -1;
+    top: 0px;
+}
+
+.backgroung-img .logo {
+    position: absolute;
+    top: 30px;
+    left: 155px;
+}
+
+.backgroung-img .phone {
+    position: absolute;
+    left: 40rem;
+    top: 47px;
+    width: 29px;
+}
+
+.backgroung-img .phone-number {
+    position: absolute;
+    color: #fff;
+    left: 43rem;
+    top: 40px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.conact {
+    position: relative;
+}
+
+.mail-id {
+    position: absolute;
+    left: 52rem;
+    top: 20px;
+    font-weight: 100;
+}
+
+.mail-id .mail-icon {
+    left: 20px;
+    position: absolute;
+    top: 30px;
+}
+
+.mail-id .maili-i {
+    position: absolute;
+    font-size: 17px;
+    left: 63px;
+    top: 22px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.search {
+    position: absolute;
+    left: 68.5rem;
+    top: 53px;
+}
+
+.menu-button
+{
+    position: absolute;
+    left: 75rem;
+    top: 55px;
+}
+
+.heading .first-heading {
+    color: #f36b2a;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: 700;
+    padding: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12rem;
+    left: 30px;
+    font-family: sans-serif;
+}
+
+.heading .secound-heading {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 135px;
+    font-weight: 700;
+    padding: 0;
+    line-height: 125px;
+    margin-bottom: 35px;
+    position: absolute;
+    top: 13rem;
+    left: 30px;
+    font-family: sans-serif;
+}
+
+.heading .pra {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 0;
+    line-height: normal;
+    margin-bottom: 50px;
+    position: absolute;
+    top: 28rem;
+    width: 481px;
+    left: 30px;
+}
+
+.backgroung-img .car {
+    position: absolute;
+    width: 727px;
+    left: 34rem;
+    top: 18rem;
+}
+
+
+
+.about {
+    position: absolute;
+    top: 47rem;
+    left: 9rem;
+}
+
+.about .abt {
+    position: absolute;
+    font-size: 77px;
+    width: 359px;
+}
+
+.about .abt-con {
+    position: absolute;
+    font-size: 20px;
+    top: 151px;
+    width: 323px;
+}
+
+.about-car {
+    width: 651px;
+    left: 455px;
+    position: absolute;
+}
+
+.our-cars {
+    position: absolute;
+    top: 83rem;
+    left: 2rem;
+}
+
+.our-cars .our-car {
+    width: 757px;
+}
+
+.our-cars .our-heading {
+    position: absolute;
+    left: 53rem;
+    top: 0rem;
+    width: 300px;
+    font-size: 70px;
+}
+
+.our-cars .our-con {
+    position: absolute;
+    left: 54rem;
+    width: 277px;
+    top: 8rem;
+}
+
+.backg .back {
+    height: 8rem;
+    position: relative;
+    top: -8rem;
+    width: 117rem;
+}
+
+.backg {
+    background-color: #161c34;
+    width: 84.3rem;
+    height: 51rem;
+    position: absolute;
+    top: 130rem;
+}
+
+.head-h {
+    width: 448px;
+    height: 81px;
+    background-color: #f36b2a;
+    position: absolute;
+    left: 27rem;
+}
+
+.heading-choose {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    position: relative;
+    top: -26px;
+    font-family: lato;
+}
+
+.all-img .one {
+    right: 252px;
+    position: relative;
+    top: 75px;
+    left: -191px;
+}
+
+.all-img .one h1 {
+    position: relative;
+    width: 274px;
+    font-size: 22px;
+    /* left: -106px; */
+    right: 86px;
+    color: #fff;
+}
+
+.all-img .one p {
+    width: 349px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    right: 143px;
+    font-size: 18px;
+}
+
+.all-img .two {
+    right: 252px;
+    position: relative;
+    top: -228px;
+    left: 196px;
+}
+
+.all-img .two h1 {
+    position: relative;
+    width: 318px;
+    font-size: 22px;
+    color: #fff;
+    right: 97px;
+    top: 31px;
+}
+
+.all-img .two p {
+    width: 349px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    right: 141px;
+    top: 33px;
+    font-size: 18px;
+}
+
+.all-img .three {
+    right: 252px;
+    position: relative;
+    top: -530px;
+    left: 600px;
+    width: 259px;
+}
+
+.all-img .three h1 {
+    position: relative;
+    width: 318px;
+    font-size: 22px;
+    right: 103px;
+    color: #fff;
+    top: 55px;
+}
+
+.all-img .three p {
+    width: 349px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+    right: 149px;
+    font-size: 18px;
+    top: 64px;
+}
+
+.all-img {
+    position: relative;
+    top: 15px;
+    left: -33px;
+}
+
+.secound-img
+{
+    position: relative;
+    top: 38px;
+    left: -31px;
+}
+
+.third-img
+{
+    position: relative;
+    top: 72px;
+    left: -37px;
+}
+
+.back-design-2 {
+    width: 85rem;
+    height: 63rem;
+    position: absolute;
+    background-color: #f36b2a;
+    top: 32rem;
+    right: -502px;
+}
+
+.heading-1 {
+    width: 31rem;
+    height: 5rem;
+    position: absolute;
+    background-color: #161c34;
+    top: 10rem;
+    left: 437px;
+}
+
+.heading-1 p {
+    position: relative;
+    text-align: center;
+    color: #fff;
+    top: -31px;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.white-box {
+    width: 69rem;
+    height: 298px;
+    position: absolute;
+    background-color: #fff;
+    top: 312px;
+    left: -304px;
+}
+
+.white-box h1 {
+    font-size: 25px;
+    line-height: normal;
+    color: #212222;
+    /* position: absolute; */
+    text-align: center;
+    top: 41px;
+    position: relative;
+    font-weight: 200;
+}
+
+.white-box h2 {
+    color: #f36b2a;
+    text-align: center;
+    position: relative;
+    top: 11px;
+}
+
+.white-box p {
+    font-size: 20px;
+    width: 1026px;
+    position: absolute;
+    top: 105px;
+    left: 44px;
+    font-family: 'Poppins';
+    color: #212222;
+    font-weight: 300;
+}
+
+.white-box .photo {
+    position: absolute;
+    left: 452px;
+    top: -156px;
+    width: 200px;
+}
+
+.white-box .qoute {
+    position: absolute;
+    top: 15rem;
+    left: 33rem;
+}
+
+.shapes .shape-1 {
+    width: 44px;
+    height: 12px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 50px;
+    top: 41rem;
+    left: 91px;
+}
+
+.shapes .shape-2 {
+    width: 44px;
+    height: 12px;
+    position: absolute;
+    background-color: #f2b87f;
+    border-radius: 50px;
+    top: 41rem;
+    left: 153px;
+}
+
+.shapes .shape-3 {
+    width: 44px;
+    height: 12px;
+    position: absolute;
+    background-color: #f2b87f;
+    border-radius: 50px;
+    top: 41rem;
+    left: 218px;
+}
+
+.shapes {
+    position: absolute;
+    top: 10px;
+    left: 20;
+    left: 90px;
+}
+
+.contact-form {
+    width: 84.3rem;
+    height: 99rem;
+    position: absolute;
+    background-color: #161c34;
+    top: 103rem;
+    left: -432px;
+}
+
+.contact-form .conact-design {
+    font-size: 45px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+    min-height: 90px;
+    padding: 0;
+    margin: 0;
+    line-height: 90px;
+    min-width: 445px;
+    float: left;
+    background: #f36b2a;
+    margin-bottom: 75px;
+    position: absolute;
+    left: 462px;
+    top: 13rem;
+}
+
+.form {
+    width: 38rem;
+    height: 34.5rem;
+    position: absolute;
+    background-color: #fff;
+    top: 25rem;
+    left: 4.5rem;
+}
+
+.form .name {
+    width: 88%;
+    border: none;
+    background: #e8e8e8;
+    min-height: 52px;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 10px 0;
+    left: 16px;
+    position: relative;
+}
+
+.form .email {
+    width: 88%;
+    border: none;
+    background: #e8e8e8;
+    min-height: 52px;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 10px 0;
+    left: 16px;
+    position: relative;
+}
+
+.form .phone {
+    width: 88%;
+    border: none;
+    background: #e8e8e8;
+    min-height: 52px;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 10px 0;
+    left: 16px;
+    position: relative;
+}
+
+.form .message {
+    width: 90%;
+    border: none;
+    background: #e8e8e8;
+    min-height: 31px;
+    padding: 0px 20px 117px 9px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 15px 0;
+    left: 16px;
+    position: relative;
+}
+
+.submit_bt {
+    width: 165px;
+    height: 51px;
+    background: #f36b2a;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: ease all 0.5s;
+    border: none;
+    position: absolute;
+    left: 13rem;
+}
+
+.submit_bt:hover {
+    background-color: black;
+}
+
+.map {
+    position: absolute;
+    left: 40rem;
+    top: -1rem;
+}
+
+.map p {
+    position: absolute;
+    width: 300px;
+}
+
+.last-heading {
+    position: absolute;
+    top: 175rem;
+    left: -326px;
+    line-height: 55px;
+}
+
+.last-heading h1 {
+    color: #fff;
+    font-size: 35px;
+    font-weight: 600;
+    padding: 0;
+    border-bottom: solid #f36b2a 1px;
+    float: left;
+}
+
+.subscribe {
+    font-size: 25px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 40px;
+    padding: 0;
+    letter-spacing: 0.2px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 13px;
+    font-weight: bold;
+}
+
+.em {
+    width: 100%;
+    border: none;
+    background: #e8e8e8;
+    min-height: 52px;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+}
+
+.sub-btn {
+    width: 165px;
+    height: 51px;
+    background: #f36b2a;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: ease all 0.5s;
+    border: none;
+    position: absolute;
+    top: 229px;
+    outline: none;
+}
+
+.sub-btn:hover {
+    background-color: black;
+}
+
+.under-line {
+    border: 1px solid rgba(255, 255, 255, .2);
+    width: 84.2rem;
+    position: absolute;
+    left: -448px;
+    top: 170rem;
+}
+
+.user-link {
+    position: absolute;
+    color: #fff;
+    left: 25rem;
+    line-height: 28px;
+    width: 300px;
+    bottom: -124px;
+}
+
+.user-link p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.user-link li {
+    color: #f36b2a;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 200;
+}
+
+.user-link a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+}
+
+.con-det {
+    position: absolute;
+    top: 181.9rem;
+    left: 25rem;
+    width: 312px;
+    font-size: 12px;
+    color: #fff;
+}
+
+.con-det p {
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.con-det h3 {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.con-det h5 {
+    font-size: 17px;
+    font-weight: 300;
+    width: 200px;
+}
+
+.social li a {
+    color: #f36b2a;
+    width: 40px;
+    height: 40px;
+    border: solid #f36b2a 1px;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 100%;
+    font-size: 18px;
+    margin: 10px;
+    position: relative;
+    left: 12rem;
+    bottom: 307px;
+}
+
+.social li {
+    list-style: none;
+}
+
+.social li a:hover {
+    color: #fff;
+}
+
+
+
+
+
+.submit {
+    width: 165px;
+    height: 51px;
+    background: #f36b2a;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: ease all 0.5s;
+    border: none;
+    position: absolute;
+    left: 13rem;
+    border-radius :50px; 
+    outline: none;
+}
+
+ .book
+{
+    position: absolute;
+    top: 36rem;
+    left: 20px;
+    font-family: 'Poppins';
+}
+
+.submit:hover {
+    background-color: #040f45;
+}
+
+
+
+.abo
+{
+    position: absolute;
+    bottom: 1.3rem;
+    font-family: 'Poppins';
+}
+
+.a1
+{
+    position: absolute;
+    top: 64rem;
+    left: 145px;
+    font-family: 'Poppins';
+}
+
+.a2
+{
+    font-family: 'Poppins';
+    position: absolute;
+    left: 56rem;
+    top: 98rem;
+}
+
+.a3
+{
+    position: absolute;
+    top: 171rem;
+    left: 35rem;
+    z-index: 1;
+    font-family: 'Poppins';
+}
+
